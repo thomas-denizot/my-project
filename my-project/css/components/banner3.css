@@ -1,0 +1,14 @@
+.banner3  {
+	opacity:0.99;
+	color: white;
+    padding: 70px 0px 70px 0px;	
+    width: 100%;
+    background-size: cover;
+    background: rgba(255, 255, 255, 0.2);
+    background-position: center;
+}
+
+.banner3 h2{
+	text-align: center;
+    font-size: 40px;
+}

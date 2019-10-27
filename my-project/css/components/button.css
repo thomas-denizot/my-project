@@ -1,0 +1,18 @@
+.button-white{
+	background-color: #e5e5e5;
+	padding: 15px 20px;
+	border-radius: 6px;
+	color: #23374d;
+	font-weight: bold;
+	font-family: 'Raleway', sans-serif;
+	font-size: 20px;
+}
+
+a:hover{
+	background: transparent; 
+	color: #e5e5e5;
+}
+
+a{
+	transition: color 3s ease;
+}

@@ -1,0 +1,26 @@
+.banner {
+	background-image: linear-gradient(154deg, rgba(0,0,0,0.8) 20%, rgba(0,0,0,0.2) 60%), url(../../images/team.jpg);    
+	color: white;
+	padding: 94px 0px 245px 0px;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.banner h1 {
+	font-size: 56px;
+	font-weight: bold;
+	margin: 0px 0px;
+
+}
+
+.banner h2 {
+	font-size: 34px;
+	font-weight: lighter;
+	opacity: 0.8;
+	margin-bottom: 40px;
+}
+
+.banner .container{
+	margin: 0px 100px;
+}
